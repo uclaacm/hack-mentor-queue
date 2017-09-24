@@ -1,4 +1,4 @@
-HELPq
+HELPq to be Adapted into a Mentor Queue for UCLA ACM Hack
 ======
 
 An extensible, customizable real-time queue system, built with [Meteor](https://www.meteor.com/)!
