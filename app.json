@@ -12,9 +12,9 @@
         "GITHUB_CLIENT_ID": "github-client-id",
         "GITHUB_ENABLE": "false",
         "GITHUB_SECRET": "github-secret",
-        "GOOGLE_CLIENT_ID": "google-client-id",
-        "GOOGLE_ENABLE": "false",
-        "GOOGLE_SECRET": "google-secret",
+        "GOOGLE_CLIENT_ID": "604306052579-bcc7pgjukgdmv1m09e8sumj90m5n68ii.apps.googleusercontent.com",
+        "GOOGLE_ENABLE": "true",
+        "GOOGLE_SECRET": "7sktSGnSyce0RTctp8BXa3yV",
         "SETTINGS_EXPIRATION_DELAY": "1800000",
         "SETTINGS_QUEUE_ENABLED": "true"
     },
